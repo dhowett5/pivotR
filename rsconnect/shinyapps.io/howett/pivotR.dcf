@@ -1,0 +1,13 @@
+name: pivotR
+title: pivotR
+username:
+account: howett
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8760052
+bundleId: 7051583
+url: https://howett.shinyapps.io/pivotR/
+when: 1680681332.8291
+lastSyncTime: 1680681332.82912
+asMultiple: FALSE
+asStatic: FALSE
